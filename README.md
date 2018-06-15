@@ -7,7 +7,7 @@
 [![Issue Count](https://codeclimate.com/github/terrafarm/gatsby-casper-demo/badges/issue_count.svg)](https://codeclimate.com/github/terrafarm/gatsby-casper-demo)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
-A static site with [Gatsby](https://github.com/gatsbyjs/gatsby/), utilizing the popular [Casper (v1.4)](https://github.com/TryGhost/Casper/tree/1.4) theme authored by [Ghost.io](https://ghost.io/).  The project is based on [Gatsby Starter Casper](https://github.com/haysclark/gatsby-starter-casper).
+A static site with [Gatsby](https://github.com/gatsbyjs/gatsby/), utilizing the popular [Casper (v1.4)](https://github.com/TryGhost/Casper/tree/1.4) theme authored by [Ghost.io](https://ghost.io/).  The project is based on [Gatsby Starter Casper](https://github.com/haysclark/gatsby-casper-demo).
 
 [Demo website.](https://terrafarm.github.io/gatsby-casper-demo/)
 

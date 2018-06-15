@@ -6,9 +6,9 @@ module.exports = {
   siteTitleAlt: "Terrafarm FavorsBot fering lunch and groceries.", // Alternative site title for SEO.
   siteLogo: "https://terrafarm.github.io/gatsby-casper-demo/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://terrafarm.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/gatsby-casper-demo", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  pathPrefix: "/gatsby-casper-demo", // Prefixes all links. For cases when deployed to example.github.io/gatsby-casper-demo/.
   siteDescription: "Get personal introductions via private chat to local people offering lunch or groceries", // Website description used for RSS feeds/meta description tag.
-  siteCover: "https://terrafarm.github.io/gatsby-starter-casper/images/blog-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+  siteCover: "https://terrafarm.github.io/gatsby-casper-demo/images/blog-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Ryan Blakeley", // The author name used in the RSS file
@@ -17,7 +17,7 @@ module.exports = {
   googleAnalyticsID: "UA-111982167-1", // GA tracking ID.
   // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // enables Disqus comments, visually deviates from original Casper theme.
   siteSocialUrls: [
-    "https://github.com/terrafarm/gatsby-starter-casper",
+    "https://github.com/terrafarm/gatsby-casper-demo",
     "https://twitter.com/terrafarm",
     "mailto:ryann@terra.farm"
   ],
@@ -26,7 +26,7 @@ module.exports = {
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/terrafarm/gatsby-starter-casper",
+      url: "https://github.com/terrafarm/gatsby-casper-demo",
       iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
     },
     {
