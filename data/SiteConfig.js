@@ -18,8 +18,8 @@ module.exports = {
   // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // enables Disqus comments, visually deviates from original Casper theme.
   siteSocialUrls: [
     "https://github.com/terrafarm/gatsby-casper-demo",
-    "https://twitter.com/terrafarm",
-    "mailto:ryann@terra.farm"
+    "https://twitter.com/_terrafarm",
+    "mailto:ryan@terra.farm"
   ],
   postDefaultCategoryID: "Ecology", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
@@ -31,7 +31,7 @@ module.exports = {
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/terrafarm",
+      url: "https://twitter.com/_terrafarm",
       iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
     },
     {
