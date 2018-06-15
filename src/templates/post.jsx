@@ -83,6 +83,8 @@ class PostTemplate extends React.Component {
     );
     const getNextData = () => (next ? formatReadNext(data.next) : null);
     const getPrevData = () => (prev ? formatReadNext(data.prev) : null);
+    const postPathPrefixIndex = config.pathPrefix ? location.pathname.indexOf(config.pathPrefix) : 0;
+    const postPath = location.pathname.substring(postPathPrefixIndex, location.pathname.length);
 
     return (
       <Drawer className="post-template" isOpen={this.state.menuOpen}>
@@ -124,7 +126,7 @@ class PostTemplate extends React.Component {
                 <AuthorInfo prefix="/author" author={authorData} />
                 <PostShare
                   postNode={postNode}
-                  postPath={location.pathname}
+                  postPath={postPath}
                   config={config}
                 />
                 <GhostSubscribe />
