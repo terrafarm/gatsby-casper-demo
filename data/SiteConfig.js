@@ -4,7 +4,7 @@ module.exports = {
   blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Terrafarm",
   siteTitleAlt: "Terrafarm FavorsBot fering lunch and groceries.", // Alternative site title for SEO.
-  siteLogo: "https://terrafarm.github.io/gatsby-casper-demo/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
+  siteLogo: "https://terrafarm.github.io/gatsby-casper-demo/logos/logo_icon-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://terrafarm.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-casper-demo", // Prefixes all links. For cases when deployed to example.github.io/gatsby-casper-demo/.
   siteDescription: "Get personal introductions via private chat to local people offering lunch or groceries", // Website description used for RSS feeds/meta description tag.

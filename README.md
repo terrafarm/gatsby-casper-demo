@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="static/logos/logo-1024.png" alt="Logo" width='200px' height='200px'/>
+    <img src="static/logos/logo_icon-1024.png" alt="Logo" width='200px' height='200px'/>
 </div>
 
 # Terrafarm Gatsby Casper Demo
