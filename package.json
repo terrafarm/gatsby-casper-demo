@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-casper",
-  "description": "GatsbyJS starter that themed with the Casper theme from Ghost.",
-  "version": "1.0.7",
-  "author": "Hays Clark <hays.clark@gmail.com>",
+  "name": "gatsby-casper-demo",
+  "description": "Terrafarm static site with GatsbyJS themed with the Casper from Ghost.",
+  "version": "0.1.0",
+  "author": "Ryan Blakeley <ryan@terra.farm>",
   "dependencies": {
     "babel-eslint": "^8.1.2",
     "babel-plugin-lodash": "^3.2.11",
@@ -60,10 +60,22 @@
     "write-good": "^0.11.3"
   },
   "keywords": [
-    "gatsby",
+    "terrafarm",
+    "favorsbot",
+    "personal",
+    "introductions",
+    "private",
+    "chatbot",
+    "local",
+    "people",
+    "food",
+    "groceries",
+    "lunch",
     "blog",
-    "casper",
-    "starter"
+    "wiki",
+    "research",
+    "ecology",
+    "engineering"
   ],
   "license": "MIT",
   "main": "n/a",
