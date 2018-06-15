@@ -1,0 +1,13 @@
+{
+  "id": "rb",
+  "name": "Ryan Blakeley",
+  "image": "images/buffalo-head.jpg",
+  "url": "http://rojobuffalo.com",
+  "location": "Dallas, TX",
+  "bio": "Owner at Terrafarm",
+  "socialUrls": [
+    "https://github.com/rojobuffalo",
+    "https://twitter.com/rojobuffalo",
+    "mailto:ryan@terra.farm"
+  ]
+}
