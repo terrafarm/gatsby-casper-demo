@@ -3,11 +3,11 @@ module.exports = {
   blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
   blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Terrafarm",
-  siteTitleAlt: "Terrafarm FavorsBot fering lunch and groceries.", // Alternative site title for SEO.
+  siteTitleAlt: "Terrafarm", // Alternative site title for SEO.
   siteLogo: "https://terrafarm.github.io/gatsby-casper-demo/logos/logo_icon-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://terrafarm.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-casper-demo", // Prefixes all links. For cases when deployed to example.github.io/gatsby-casper-demo/.
-  siteDescription: "Get personal introductions via private chat to local people offering lunch or groceries", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Everybody eat well.", // Website description used for RSS feeds/meta description tag.
   siteCover: "https://terrafarm.github.io/gatsby-casper-demo/images/blog-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
