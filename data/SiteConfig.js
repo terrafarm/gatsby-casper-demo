@@ -8,7 +8,7 @@ module.exports = {
   siteUrl: "https://terrafarm.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-casper-demo", // Prefixes all links. For cases when deployed to example.github.io/gatsby-casper-demo/.
   siteDescription: "Everybody eat well.", // Website description used for RSS feeds/meta description tag.
-  siteCover: "https://terrafarm.github.io/gatsby-casper-demo/images/blog-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+  siteCover: "https://terrafarm.github.io/gatsby-casper-demo/images/landscape-615429_1280.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Ryan Blakeley", // The author name used in the RSS file
