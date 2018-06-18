@@ -4,11 +4,11 @@ module.exports = {
   blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Terrafarm",
   siteTitleAlt: "Terrafarm", // Alternative site title for SEO.
-  siteLogo: "https://terrafarm.github.io/gatsby-casper-demo/logos/logo_icon-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://terrafarm.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/gatsby-casper-demo", // Prefixes all links. For cases when deployed to example.github.io/gatsby-casper-demo/.
+  siteLogo: "https://terra.farm/logos/logo_icon-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
+  siteUrl: "https://terra.farm", // Domain of your website without pathPrefix.
+  pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-casper-demo/.
   siteDescription: "Demo site.", // Website description used for RSS feeds/meta description tag.
-  siteCover: "https://terrafarm.github.io/gatsby-casper-demo/images/landscape-615429_1280.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+  siteCover: "https://terra.farm/images/landscape-615429_1280.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Ryan Blakeley", // The author name used in the RSS file
