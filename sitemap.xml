@@ -32,4 +32,5 @@
 <url> <loc>https://terrafarm.github.io/gatsby-casper-demo/gatsby-casper-demo/author/casper/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://terrafarm.github.io/gatsby-casper-demo/gatsby-casper-demo/author/rb/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://terrafarm.github.io/gatsby-casper-demo/gatsby-casper-demo/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://terrafarm.github.io/gatsby-casper-demo/gatsby-casper-demo/favorsbot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
