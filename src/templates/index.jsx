@@ -13,9 +13,9 @@ import MainNav from "../layouts/MainNav/MainNav";
 import BlogLogo from "../components/BlogLogo/BlogLogo";
 import MenuButton from "../components/MenuButton/MenuButton";
 import PageTitle from "../components/PageTitle/PageTitle";
-// import PageDescription from "../components/PageDescription/PageDescription";
+import PageDescription from "../components/PageDescription/PageDescription";
 import PaginatedContent from "../layouts/PaginatedContent/PaginatedContent";
-// import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
+import SocialMediaIcons from "../components/SocialMediaIcons/SocialMediaIcons";
 
 class IndexTemplate extends React.Component {
   state = {
@@ -79,13 +79,7 @@ class IndexTemplate extends React.Component {
               <div className="vertical">
                 <div className="main-header-content inner">
                   <PageTitle text={config.siteTitle} />
-                  {/*
                   <PageDescription text={config.siteDescription} />
-                  <SocialMediaIcons
-                    urls={config.siteSocialUrls}
-                    color="currentColor"
-                  />
-                  */}
                 </div>
               </div>
               <Link
@@ -112,6 +106,11 @@ class IndexTemplate extends React.Component {
               <PostListing postEdges={nodes} postAuthors={authorsEdges} />
             </PaginatedContent>
           </div>
+
+          <SocialMediaIcons
+            urls={config.siteSocialUrls}
+            color="currentColor"
+          />
 
           {/* The tiny footer at the very bottom */}
           <Footer
