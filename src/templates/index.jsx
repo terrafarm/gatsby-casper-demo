@@ -78,7 +78,7 @@ class IndexTemplate extends React.Component {
               </MainNav>
               <div className="vertical">
                 <div className="main-header-content inner">
-                  <PageTitle text={config.siteTitle} />
+                  <PageTitle text={config.siteTitle} image={config.siteTitleImage} />
                   <PageDescription text={config.siteDescription} />
                 </div>
               </div>

@@ -5,12 +5,14 @@
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #fff;
+    color: rgba(255, 255, 255, .8);
 }
 
 .no-cover .page-title {
     color: rgba(0, 0, 0, 0.8);
 }
+
+.page-title a, .page-title img { color: inherit; }
 
 /* Add subtle load-in animation for content on the home page */
 .home-template .page-title {
@@ -29,6 +31,9 @@
         font-size: 4rem;
         letter-spacing: -1px;
     }
+    .page-title img {
+        max-width: 312px;
+    }
 }
 
 /* ==========================================================================
@@ -38,6 +43,9 @@
 @media only screen and (max-width: 500px) {
     .page-title {
         font-size: 3rem;
+    }
+    .page-title img {
+        max-width: 192px;
     }
 }
 

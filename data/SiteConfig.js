@@ -4,6 +4,7 @@ module.exports = {
   blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Terrafarm",
   siteTitleAlt: "Terrafarm", // Alternative site title for SEO.
+  siteTitleImage: "https://terra.farm/logos/logo_name_white-512.png", // Optional, an image of a logo name, replaces title text on home page
   siteLogo: "https://terra.farm/logos/logo_icon-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://terra.farm", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-casper-demo/.
