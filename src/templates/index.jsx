@@ -88,7 +88,7 @@ class IndexTemplate extends React.Component {
                 data-offset="-45"
                 spy
                 smooth
-                duration={500}
+                duration={350}
               >
                 <span className="hidden">Scroll Down</span>
               </Link>
