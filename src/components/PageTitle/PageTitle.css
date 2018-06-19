@@ -12,6 +12,10 @@
     color: rgba(0, 0, 0, 0.8);
 }
 
+.page-title img {
+    max-width: 312px;
+}
+
 .page-title a, .page-title img { color: inherit; }
 
 /* Add subtle load-in animation for content on the home page */
@@ -30,9 +34,6 @@
     .page-title {
         font-size: 4rem;
         letter-spacing: -1px;
-    }
-    .page-title img {
-        max-width: 312px;
     }
 }
 
